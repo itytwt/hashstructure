@@ -1,4 +1,4 @@
-# hashstructure [![GoDoc](https://godoc.org/github.com/mitchellh/hashstructure?status.svg)](https://godoc.org/github.com/mitchellh/hashstructure)
+# hashstructure [![GoDoc](https://godoc.org/github.com/itytwt/hashstructure?status.svg)](https://godoc.org/github.com/itytwt/hashstructure)
 
 hashstructure is a Go library for creating a unique hash value
 for arbitrary values in Go.
@@ -28,12 +28,12 @@ sending data across the network, caching values locally (de-dup), and so on.
 Standard `go get`:
 
 ```
-$ go get github.com/mitchellh/hashstructure
+$ go get github.com/itytwt/hashstructure
 ```
 
 ## Usage & Example
 
-For usage and examples see the [Godoc](http://godoc.org/github.com/mitchellh/hashstructure).
+For usage and examples see the [Godoc](http://godoc.org/github.com/itytwt/hashstructure).
 
 A quick code example is shown below:
 
